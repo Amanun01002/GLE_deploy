@@ -1,0 +1,10 @@
+folium==0.18.0
+requests
+streamlit==1.40.2
+streamlit_folium==0.23.2
+gspread
+datetime
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
